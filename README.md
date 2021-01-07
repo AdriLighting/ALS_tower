@@ -1,5 +1,6 @@
 # ALS
-ESP8266 Rgb lamp server
+AdriLighting Lamp Server
+  ESP8266 Rgb lamp server
 
 ## HARDWARE
 ### lamp format

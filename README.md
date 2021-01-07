@@ -12,9 +12,13 @@ ESP8266 Rgb lamp server
 - wemos d1 mini
 
 ## CODE
-compile with arduino ide
-
-### LIBRAIRIES
+  - Compil with:
+    - Arduino ide
+  - Text editor:
+    - Sublime-text
+    
+### LIBRAIRIES 
+- dowload to "\Users\You\Documents\Arduino\libraries"
 
 #### librairies ALS by AdriLighting
 * ![ALS_server](https://github.com/AdriLighting/ALS_server)

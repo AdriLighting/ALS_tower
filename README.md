@@ -11,7 +11,8 @@ ESP8266 Rgb lamp server
 ##### pic
 - wemos d1 mini
 
-##### librairies ALS
+#### LIBRAIRIES
+##### librairies ALS by AdriLighting
 * ![ALS_server](https://github.com/AdriLighting/ALS_server)
 * ![ALS_espwebserver](https://github.com/AdriLighting/ALS_espwebserver)
 * ![ALS_fnc](https://github.com/AdriLighting/ALS_fnc)
@@ -22,7 +23,7 @@ ESP8266 Rgb lamp server
 * ![ALS_matrixRGB](https://github.com/AdriLighting/ALS_matrixRGB)
 * ![ALS_neomatrix](https://github.com/AdriLighting/ALS_neomatrix)
 
-##### Librairies additionnelles
+##### Librairies additionnelles by AdriLighting
 * ![adri_calendar_event](https://github.com/AdriLighting/adri_calendar_event)
 * ![adri_espwebserver](https://github.com/AdriLighting/adri_espwebserver)
 * ![adri_httparseurl](https://github.com/AdriLighting/adri_httparseurl)

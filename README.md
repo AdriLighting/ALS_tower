@@ -42,20 +42,20 @@ by kriegsman
 * ![FastLED](https://github.com/FastLED/FastLED)
 
 by Arduinojson
-* ![arduinojson](https://github.com/AdriLighting/adri_spiff)
+* ![arduinojson](https://github.com/bblanchon/ArduinoJson)
 
 by Marcmerlin
-* ![FastLED_NeoMatrix](https://github.com/AdriLighting/adri_spiff)
-* ![Framebuffer_GFX](https://github.com/AdriLighting/adri_spiff)
+* ![FastLED_NeoMatrix](https://github.com/marcmerlin/FastLED_NeoMatrix)
+* ![Framebuffer_GFX](https://github.com/marcmerlin/Framebuffer_GFX)
 
 by PaulStoffregen
-* ![TimeLib](https://github.com/AdriLighting/adri_spiff)
+* ![TimeLib](https://github.com/PaulStoffregen/Time)
 
 by Adafruit
-* ![GFX](https://github.com/AdriLighting/adri_spiff)
-* ![Adafruit_SSD1306](https://github.com/AdriLighting/adri_spiff)
-* ![Adafruit_BusIO](https://github.com/AdriLighting/adri_spiff)
+* ![GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+* ![SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+* ![BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
 by Links2004
-* ![arduinoWebSockets](https://github.com/AdriLighting/adri_spiff)
+* ![arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
 

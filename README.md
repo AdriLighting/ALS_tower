@@ -20,7 +20,7 @@ ESP8266 Rgb lamp server
 ### LIBRAIRIES 
 - dowload to "\Users\You\Documents\Arduino\libraries"
 
-#### librairies ALS by AdriLighting
+#### librairies ALS
 * ![ALS_server](https://github.com/AdriLighting/ALS_server)
 * ![ALS_espwebserver](https://github.com/AdriLighting/ALS_espwebserver)
 * ![ALS_fnc](https://github.com/AdriLighting/ALS_fnc)
@@ -31,7 +31,7 @@ ESP8266 Rgb lamp server
 * ![ALS_matrixRGB](https://github.com/AdriLighting/ALS_matrixRGB)
 * ![ALS_neomatrix](https://github.com/AdriLighting/ALS_neomatrix)
 
-#### Librairies additionnelles by AdriLighting
+#### Librairies additionnelles
 * ![adri_calendar_event](https://github.com/AdriLighting/adri_calendar_event)
 * ![adri_espwebserver](https://github.com/AdriLighting/adri_espwebserver)
 * ![adri_httparseurl](https://github.com/AdriLighting/adri_httparseurl)

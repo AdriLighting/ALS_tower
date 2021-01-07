@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">        
+        <title id='page_name'>Adri_ESPwebserver</title>
+    	<link href="css/bootstrap-4.3.1.css" rel="stylesheet">
+
+    </head>
+	<style>
+		.button {
+			background-color: #4CAF50;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+		}
+
+		.form-group{
+  			margin-top: 10px;
+
+		}
+
+
+
+
+		tr:nth-child(even) {
+		 	background-color: #dddddd;
+		}		
+	</style>
+	<body>
+		
+		<h2>Adri_ESPwebserver</h2>
+		<div class="container">
+			
+			<div class="btn-group" role="group" aria-label="Basic example">
+				<button class="btn btn-primary btn-lg"  onclick="region_wifi()" >Wifi</button>
+				<button class="btn btn-primary btn-lg"  onclick="region_json()" >Json</button>
+				<button class="btn btn-primary btn-lg"  onclick="region_socketMonitor()" >Monitor</button>
+			</div>
+			<div id="region_socketMonitor" style="display:none"  class="form-group">
+				<p id="p1">Hello World!</p>
+				<!-- Goto http://w3c.github.io/html-reference/input.text.html#input.text for more information on all attributes that can be used with text input field -->
+				<input type="text" placeholder="Placeholder text" />
+				<button class="btn btn-primary btn-lg"  onclick="serialArduino()" >Send</button>
+			</div> 			
+			<div id="region_json" style="display:none"  class="form-group">
+				<br>
+				<!--<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>-->
+				<button class="btn btn-primary btn-lg"  onclick="region_json_upd()" >Actualiz</button>
+				<button class="btn btn-primary btn-lg"  onclick="table_jsonShow('grp_table_jsonEffect')" >Effect</button>	
+				<button class="btn btn-primary btn-lg"  onclick="table_jsonShow('grp_table_jsonPatterns')" >Pattern</button>	
+				<button class="btn btn-primary btn-lg"  onclick="table_jsonShow('grp_table_jsonPlaylist')" >Playlist</button>	
+				<button class="btn btn-primary btn-lg"  onclick="table_jsonShow('grp_table_jsonGeneral')" >General</button>	
+				<button class="btn btn-primary btn-lg"  onclick="table_jsonShow('grp_table_jsonEffectList')" >Effect List</button>	
+				<br>
+				<hr>	
+				<br>
+				<div id="grp_table_jsonEffect" style="display:" >
+					<p>Current effect</p>
+					<table class="table" id ="table_jsonEffect" >
+						<tr>
+							<th>OBJ</th>
+							<th>KEY</th>
+							<th>VALUE</th>
+						</tr>
+					</table> 
+					<br>
+				</div>
+				<div id="grp_table_jsonPatterns" style="display:" >
+					<p>Pattern</p>
+					<table class="table" id ="table_jsonPatterns" >
+						<tr>
+							<th>OBJ</th>
+							<th>KEY</th>
+							<th>VALUE</th>
+						</tr>
+					</table> 
+					<br>
+				</div>	
+				<div id="grp_table_jsonPlaylist" style="display:none" >
+					<p>Playlist</p>
+					<table class="table" id ="table_jsonPlaylist" >
+						<tr>
+							<th>KEY</th>
+							<th>VALUE</th>
+						</tr>
+					</table> 
+					<br>
+				</div>
+				<div id="grp_table_jsonGeneral" style="display:" >
+					<p>General</p>
+					<table class="table" id ="table_jsonGeneral" >
+						<tr>
+							<th>KEY</th>
+							<th>VALUE</th>
+						</tr>
+					</table> 
+					<br>
+				</div>							
+				<div id="grp_table_jsonEffectList" style="display:none" >
+					<p>Effect List</p>
+					<table class="table" id ="table_jsonEffectList" >
+						<tr>
+							<th>KEY</th>
+							<th>VALUE</th>
+						</tr>
+					</table> 
+					<br>
+				</div>
+			</div> 			
+			<div id="region_wifi" style="display:none"  class="form-group">
+				<button class="btn btn-primary btn-lg"  onclick="request_send('httpRequest', 'wifi', 'is')" >Actualiz</button>			
+				<table class="table" id ="table_wifi" >
+					<tr>
+						<th>SSID</th>
+						<th>IP</th>
+					</tr>
+				</table> 
+			</div> 
+		</div>
+
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/core.js"></script>
+    </body>
+
+
+</html>
+
+
+
+

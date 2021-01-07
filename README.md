@@ -1,5 +1,4 @@
-# ALS
-AdriLighting Lamp Server</br>
+# AdriLighting Lamp Server
   ESP8266 Rgb lamp server
 
 ## HARDWARE

@@ -47,24 +47,24 @@ ESP8266 Rgb lamp server
 * ![adri_spiff](https://github.com/AdriLighting/adri_spiff)
 
 #### librairies additionnelles
-by kriegsman
-* ![FastLED](https://github.com/FastLED/FastLED)
+* by kriegsman
+  * ![FastLED](https://github.com/FastLED/FastLED)
 
-by Arduinojson
-* ![arduinojson](https://github.com/bblanchon/ArduinoJson)
+* by Arduinojson
+  * ![arduinojson](https://github.com/bblanchon/ArduinoJson)
 
-by Marcmerlin
-* ![FastLED_NeoMatrix](https://github.com/marcmerlin/FastLED_NeoMatrix)
-* ![Framebuffer_GFX](https://github.com/marcmerlin/Framebuffer_GFX)
+* by Marcmerlin
+  * ![FastLED_NeoMatrix](https://github.com/marcmerlin/FastLED_NeoMatrix)
+  * ![Framebuffer_GFX](https://github.com/marcmerlin/Framebuffer_GFX)
 
-by PaulStoffregen
-* ![TimeLib](https://github.com/PaulStoffregen/Time)
+* by PaulStoffregen
+  * ![TimeLib](https://github.com/PaulStoffregen/Time)
 
-by Adafruit
-* ![GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-* ![SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
-* ![BusIO](https://github.com/adafruit/Adafruit_BusIO)
+* by Adafruit
+  * ![GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+  * ![SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+  * ![BusIO](https://github.com/adafruit/Adafruit_BusIO)
 
-by Links2004
-* ![arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
+* by Links2004
+  * ![arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
 

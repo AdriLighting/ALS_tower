@@ -1,5 +1,5 @@
 # AdriLighting Lamp Server (Tower version)
-  ESP8266 Rgb lamp server
+Rgb mood lamp connected via wifi
 
 ## HARDWARE
 ### lamp format

@@ -69,4 +69,4 @@
   * ![arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
 
 ### ANDROID
-  * ![PlayStore](https://play.google.com/store/apps/details?id=kodular.Adrilighting)
+  * ![PlayStore](https://drive.google.com/drive/folders/1FolOJHOZhBQK5RT8SspqxCswP4eIfR82?usp=sharing)

@@ -16,6 +16,12 @@ Rgb mood lamp connected via wifi
 ### pic
 - wemos d1 mini
 
+### PCB
+- wemos d1 mini
+- 1000uf
+- 100nf
+- 470hom
+
 ## CODE
   - Compil with:
     - Arduino ide

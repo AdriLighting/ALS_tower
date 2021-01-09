@@ -4,7 +4,12 @@ Rgb mood lamp connected via wifi
 ## HARDWARE
 ### lamp format
 - tower 16x14
-
+<pre>
+                Col1       Col2     Colx16
+      Row   x14 
+      Row   2   Data->     Data->
+      Row   1   Data->     Data->
+</pre>
 ### strip
 - ws2812b
 

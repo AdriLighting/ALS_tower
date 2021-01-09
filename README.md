@@ -3,7 +3,7 @@ Rgb mood lamp connected via wifi
 
 ## HARDWARE
 ### lamp format
-- tower 16x14
+- tower 224Leds - 16x14
 <pre>
                 Col1       Col2     Colx16
       Row   x14 
@@ -11,7 +11,7 @@ Rgb mood lamp connected via wifi
       Row   1   Data->     Data->
 </pre>
 ### strip
-- ws2812b
+- ws2812b (60/m)
 
 ### pic
 - wemos d1 mini
